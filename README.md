@@ -1,13 +1,13 @@
 # Credit Wise Loan System – Loan Approval Prediction
 
-## 📌 Project Overview
+## Project Overview
 This project predicts whether a loan application should be approved or rejected based on applicant financial and personal details such as income, credit history, loan amount, and employment status.
 
 The system uses supervised machine learning classification algorithms to automate and improve loan approval decisions.
 
 ---
 
-## 🗂 Dataset Features
+## Dataset Features
 The dataset includes key attributes such as:
 - ApplicantIncome
 - CoapplicantIncome
@@ -20,7 +20,7 @@ The dataset includes key attributes such as:
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 - Python
 - Pandas & NumPy
 - Scikit-learn
@@ -29,7 +29,7 @@ The dataset includes key attributes such as:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -41,7 +41,7 @@ Models were evaluated using:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 1. Data Cleaning & Handling Missing Values  
 2. Encoding Categorical Features  
 3. Feature Scaling  
@@ -50,14 +50,14 @@ Models were evaluated using:
 
 ---
 
-## 📊 Key Outcome
+## Key Outcome
 - Compared multiple classification models  
 - Selected best-performing model based on evaluation metrics  
 - Improved understanding of financial risk prediction  
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository  
 2. Install required libraries  
 3. Open the notebook in JupyterLab  
@@ -65,7 +65,7 @@ Models were evaluated using:
 
 ---
 
-## ⚡ Author
+## Author
 **Shazia Anwar (Shaz)**  
 Aspiring AI & ML Developer  
 
