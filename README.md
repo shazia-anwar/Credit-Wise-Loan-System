@@ -68,5 +68,4 @@ Models were evaluated using:
 ## Author
 **Shazia Anwar (Shaz)**  
 Aspiring AI & ML Developer  
-
 GitHub: https://github.com/shazia-anwar
